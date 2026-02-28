@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-ON-THE-REDDIT-FINANCE-POSTS-S-amp-P-500-DATASET-USING-PYSPARK-AND-TABLEAU
+The pipeline deals with the ingestion, preprocessing, and validation of unstructured text and engagement metadata, as well as distributed processing. Exploratory analysis shows the existence of strong data skew, imbalance in classes and patterns of temporal growth in various subreddits concerned with finance.
